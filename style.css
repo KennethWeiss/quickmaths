@@ -1,0 +1,21 @@
+*{
+    margin: 5px;
+    border: 2px solid black;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    margin:30%;
+}
+
+.numbers{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.num{
+    background-color: lightgrey;
+    width: 30px;
+    text-align: center;
+}
