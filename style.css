@@ -15,7 +15,12 @@
 }
 
 .num{
+    font-size: 32px;
     background-color: lightgrey;
-    width: 30px;
+    width: 40px;
     text-align: center;
+}
+
+#answerbox{
+    
 }
